@@ -1,9 +1,8 @@
-# Fabric Example Mod
+# Fabric Mod by 
 
-## Setup
+RECIOR owo
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+## About
+A FrabicMC mod I made for fun, if you want to build it, do it else don't waste your time, TROLLLLLLLLL.
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+#Also I like Cat girls.
